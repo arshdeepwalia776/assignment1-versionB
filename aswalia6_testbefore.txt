@@ -1,0 +1,10 @@
+test_before_date (__main__.TestBefore) ... ok
+test_dtypes (__main__.TestBefore)
+before() is returning string ... ok
+test_leap (__main__.TestBefore)
+before() works with leap year ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.002s
+
+OK
