@@ -1,0 +1,9 @@
+test_invalid_dates (__main__.TestValidDate)
+making sure invalid dates return False ... ok
+test_valid_dates (__main__.TestValidDate)
+making sure valid dates return True ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK
