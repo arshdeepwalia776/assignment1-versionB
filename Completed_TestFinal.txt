@@ -1,0 +1,17 @@
+test_arg_length (__main__.TestFinal)
+when args != 2, output contains usage ... ok
+test_invalid_date (__main__.TestFinal)
+output contains usage when bad date ... ok
+test_invalid_step (__main__.TestFinal)
+output contains usage when bad step ... ok
+test_proper_after (__main__.TestFinal)
+output contain XX days from now w/ correct date ... ok
+test_proper_before (__main__.TestFinal)
+output contain 'XX days ago' w/ correct date ... ok
+test_proper_step (__main__.TestFinal)
+main print returning proper step ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.370s
+
+OK
