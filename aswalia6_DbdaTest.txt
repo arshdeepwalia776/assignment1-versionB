@@ -1,0 +1,9 @@
+test_after_dbda (__main__.TestDBDA)
+does dbda work with positive numbers ... ok
+test_before_dbda (__main__.TestDBDA)
+does dbda work with negative numbers ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.020s
+
+OK
